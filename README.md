@@ -5,4 +5,4 @@ Cambio en local
 
 Cambio en el README antes del rebase
 
-Cambio conflictivo local Readme.md
+Un nuevo cambio adrede para que colisione (cambio en github)
